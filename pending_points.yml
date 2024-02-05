@@ -1,0 +1,37 @@
+# this csv file will be uploaded by instituion
+CSV Data :
+  Name,
+  Age,
+  Mobile Number,
+  Income (INR),
+  WhatsApp,
+  Type,
+  Location,
+  Marital Status,
+  No. of Children,
+  Education,
+  Family Members,
+  Occupation,
+  Gender,
+  Caste,
+  Religion,
+  NGOs Name,
+  Age_Group,
+  Income_Group
+
+  Filter query :
+    Age_Group,
+    Income_Group
+    Occupation,
+    Gender,
+    Mobile Number,
+    Education,
+    WhatsApp,
+    State,
+    City,
+
+Age_group:
+  18-25
+  25-35
+  36-45
+  46-60
